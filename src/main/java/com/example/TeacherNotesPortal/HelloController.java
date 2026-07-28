@@ -9,6 +9,6 @@ public class HelloController {
     @GetMapping("")
     public String greeting()
     {
-        return "Welcome to Our Project Group ";
+        return "Welcome to Our Project Group ISE";
     }
 }
